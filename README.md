@@ -4,11 +4,11 @@
 <h3 align="left">Frontend Developer</h3>
 <img align="right" width="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif"alt="programming" />
 <br/>
-- 🔭 I’m currently working on [Baku roofing company](brc.panel.az)
+- 🔭 I’m currently working on [Spedex management application](Aqrar Telim platformasi)
 
 - 🌱 I’m currently learning **Android Dev.**
 
-- 💬 Ask me about **CMS,Hosting,HTML,CSS,JS,jQuery,REACT**
+- 💬 Ask me about **CMS,HTML,CSS,JS,jQuery,REACT,Vue3,ElectronJs,PHP,Fastify**
 
 - 📫 How to reach me **umud@div.edu.az,umid.abbasli@list.ru**
 
