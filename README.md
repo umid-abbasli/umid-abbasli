@@ -1,13 +1,13 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+%C3%9Cm%C3%BCd+Abbasl%C4%B1;Full+Stack+Developer;SaaS+Architect+%26+Founder;Building+Next-Gen+ERP+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+%C3%9Cm%C3%BCd+Abbasl%C4%B1;Full+Stack+Developer;SaaS+Architect;Building+Next-Gen+ERP+Systems" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/umid-abbasli">
       <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20High--Load%20Systems-2ea44f?style=for-the-badge&logo=serverless&logoColor=white" />
     </a>
-    <a href="https://technomen.az">
-      <img src="https://img.shields.io/badge/Founder-Technomen-blue?style=for-the-badge&logo=hashnode&logoColor=white" />
+    <a href="https://github.com/umid-abbasli">
+      <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-blueviolet?style=for-the-badge&logo=freelancer&logoColor=white" />
     </a>
   </p>
 
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 **Professional Summary**
 
-I am a **Full Stack Developer** and **Tech Entrepreneur** based in **Baku, Azerbaijan**. I specialize in architecting complex **ERP systems** and scalable **SaaS solutions**. My passion lies in bridging the gap between robust backend logic and seamless frontend experiences using modern DevOps practices.
+I am a **Full Stack Developer** based in **Baku, Azerbaijan**. I specialize in architecting complex **ERP systems** and scalable **SaaS solutions**. My passion lies in bridging the gap between robust backend logic and seamless frontend experiences using modern DevOps practices.
 
 * 🔭 **Currently Architecting:** Enterprise-level ERPs for Logistics and Agriculture.
 * 🌱 **Deep Diving into:** Cloud Native Architectures, Advanced Android Dev, and Microservices.
@@ -40,7 +40,7 @@ I am a **Full Stack Developer** and **Tech Entrepreneur** based in **Baku, Azerb
 
 ---
 
-### 🚀 **Featured Projects & Ventures**
+### 🚀 **Featured Projects**
 
 | Project | Role | Status | Description |
 | :--- | :--- | :--- | :--- |
