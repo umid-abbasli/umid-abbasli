@@ -37,8 +37,8 @@ I am a **Senior Full Stack Engineer** and **SaaS Architect** based in **Baku**, 
 
 | Project | Stack & Architecture | Status | Business Value |
 | :--- | :--- | :--- | :--- |
-| **RichOil ERP** | `Vue3` `FastAPI` `Redis` | 🟡 **In Dev** | Enterprise resource planning system optimizing industrial oil logistics and inventory. |
-| **Spedex Global** | `Nuxt` `Node.js` `Socket.io` | 🟡 **In Dev** | Real-time cargo tracking platform with automated customs documentation generation. |
+| **RichOil ERP** | `Vue3` `FastAPI` `Redis` | 🚀 **Live** | Enterprise resource planning system optimizing industrial oil logistics and inventory. |
+| **Spedex Global** | `Nuxt` `Node.js` `Socket.io` | 🚀 **Live** | Real-time cargo tracking platform with automated customs documentation generation. |
 | **Tarla (Gov)** | `Python` `GIS` `Big Data` | 🚀 **Live** | Government-commissioned agro-tech platform for monitoring large-scale land usage. |
 | **CV Generator** | `React` `PDFKit` `Stripe` | 🟢 **Stable** | Subscription-based SaaS generating ATS-friendly resumes dynamically. |
 
