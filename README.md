@@ -67,7 +67,7 @@ I am a **Senior Full Stack Engineer** and **SaaS Architect** based in **Baku**, 
   <a href="https://linkedin.com/in/ümüd-abbaslı-245223243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:umud@div.edu.az">
+  <a href="mailto:abbasli.umud.frontend@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
