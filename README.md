@@ -46,7 +46,7 @@ I am a **Senior Full Stack Engineer** and **SaaS Architect** based in **Baku**, 
 
 <div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=umid-abbasli&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="umid-abbasli trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=umid-abbasli&theme=gruvbox&no-frame=true" alt="trophies" />
   </a>
 </div>
 
