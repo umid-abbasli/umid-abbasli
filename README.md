@@ -1,5 +1,4 @@
 <div align="center">
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+%C3%9Cm%C3%BCd+Abbasl%C4%B1;Architecting+Scalable+SaaS;Building+Enterprise+ERP+Systems;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
 
   <p>
@@ -7,7 +6,6 @@
     <img src="https://img.shields.io/badge/ARCHITECTURE-Microservices-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/INDUSTRY-FinTech_%26_Logistics-orange?style=for-the-badge&logo=bitcoin&logoColor=white" />
   </p>
-
 </div>
 
 ---
