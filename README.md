@@ -44,9 +44,9 @@ I am a **Senior Full Stack Engineer** and **SaaS Architect** based in **Baku**, 
 
 ### 📊 **GitHub Analytics & Activity**
 
-<div align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=umid-abbasli&theme=gruvbox&no-frame=true" alt="trophies" />
+<div align="center">
+  <a href="https://github.com/umid-abbasli">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umid-abbasli&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
