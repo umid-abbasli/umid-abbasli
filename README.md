@@ -36,8 +36,9 @@ I am a **Senior Full Stack Engineer** and **SaaS Architect** based in **Baku**, 
 | Project | Stack & Architecture | Status | Business Value |
 | :--- | :--- | :--- | :--- |
 | **RichOil ERP** | `Vue3` `FastAPI` `Redis` | 🚀 **Live** | Enterprise resource planning system optimizing industrial oil logistics and inventory. |
+| **Buta Park** | `Nuxt 3` `GSAP` `Tailwind` | 🚀 **Live** | Premium construction & architecture web platform with dark luxury aesthetics and scroll-driven animations. |
 | **Spedex Global** | `Nuxt` `Node.js` `Socket.io` | 🚀 **Live** | Real-time cargo tracking platform with automated customs documentation generation. |
-| **Tarla (Gov)** | `Python` `GIS` `Big Data` | 🚀 **Live** | Government-commissioned agro-tech platform for monitoring large-scale land usage. |
+| **Tarla (Gov)** | `Python` `Vue 3` | 🚀 **Live** | Government-commissioned national agricultural e-learning and training platform. |
 | **CV Generator** | `React` `PDFKit` `Stripe` | 🟢 **Stable** | Subscription-based SaaS generating ATS-friendly resumes dynamically. |
 
 ---
@@ -46,7 +47,7 @@ I am a **Senior Full Stack Engineer** and **SaaS Architect** based in **Baku**, 
 
 <div align="center">
   <a href="https://github.com/umid-abbasli">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umid-abbasli&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=umid-abbasli&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
