@@ -54,8 +54,8 @@ I am a **Senior Full Stack Engineer** and **SaaS Architect** based in **Baku**, 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umid-abbasli&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umid-abbasli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umid-abbasli&theme=tokyonight" height="180" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umid-abbasli&theme=tokyonight" height="180" alt="languages graph" />
 </div>
 
 ---
