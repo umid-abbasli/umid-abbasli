@@ -47,7 +47,7 @@ I am a **Senior Full Stack Engineer** and **SaaS Architect** based in **Baku**, 
 
 <div align="center">
   <a href="https://github.com/umid-abbasli">
-    <img src="https://github-readme-streak-stats.deno.dev/?user=umid-abbasli&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=umid-abbasli&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
